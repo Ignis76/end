@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 260" fill="none">
+ <g fill="#b580df"><rect class="dragon-trail" x="87" y="32" width="3" height="3"/><rect class="dragon-trail" x="115" y="20" width="2" height="2"/><rect class="dragon-trail" x="104" y="7" width="3" height="3"/></g>
+ <g class="dragon-body">
+ <g class="dragon-tail"><path d="M94 122 96 91 111 64 109 46 99 34 100 19 104 9 106 23 105 32 117 43 122 64 108 95 108 123Z" fill="#171322" stroke="#645072" stroke-width="1.4"/><path d="m100 113 2-21 15-29-3-17-12-14 2-14" stroke="#473951" stroke-width="4"/><path d="m99 97-9-6 12-1m8-18-8-8 12 1m-2-18-8-4 7-3" fill="#9586a2"/></g>
+ <g class="dragon-wing-left"><path d="M95 126 68 94 40 65 7 86 17 126 29 143 48 136 66 153 91 151Z" fill="#15121f" stroke="#81708e" stroke-width="1.5"/><path d="M92 133 39 68 20 101 32 127 50 122 68 143Z" fill="#33273e"/><path d="M92 133 68 96 40 67 8 86 21 101Z" fill="#4c3b59"/><path d="M92 133 21 101 29 143M92 133 50 122 48 136M92 133 68 143 66 153" stroke="#7a658c" stroke-width="2"/><path d="m8 86-4 14 10-6" fill="#bbb0c2"/><path d="m39 66 1-10 8 19" fill="#998da6"/></g>
+ <g class="dragon-wing-right"><path d="M105 126 132 94 160 65 193 86 183 126 171 143 152 136 134 153 109 151Z" fill="#110f1a" stroke="#756583" stroke-width="1.5"/><path d="M108 133 161 68 180 101 168 127 150 122 132 143Z" fill="#2b2136"/><path d="M108 133 132 96 160 67 192 86 179 101Z" fill="#40314d"/><path d="M108 133 179 101 171 143M108 133 150 122 152 136M108 133 132 143 134 153" stroke="#6c587f" stroke-width="2"/><path d="m192 86 4 14-10-6" fill="#b3a4be"/><path d="m161 66-1-10-8 19" fill="#998da6"/></g>
+ <path d="m89 147-15 19 2 16 10 2 2-5-6-3 1-8 12-8m16-13 15 19-2 16-10 2-2-5 6-3-1-8-12-8" fill="#1a1423" stroke="#665471" stroke-width="1.3"/>
+ <path d="m87 115 13-9 14 9 3 33-10 20H94l-12-20Z" fill="#27202f" stroke="#685575" stroke-width="1.5"/><path d="m100 109 14 8 3 31-10 20h-7Z" fill="#121019"/><path d="m100 115-7 4 7 6 7-6m-7 11-7 4 7 6 7-6m-7 11-7 4 7 6 7-6" fill="#85738f"/>
+ <path d="m93 159-4 20 9 12 13-9-4-23" fill="#241b2e" stroke="#786183" stroke-width="1.2"/>
+ <path d="m88 177-8-17-1-10 7 6 10 22m13-1 9-17 1-10-7 6-10 22" fill="#b5a8be"/><path d="m88 177-5-17 13 18m13-1 6-17-13 18" fill="#695975"/>
+ <path d="m81 180 18-9 22 10-2 25-18 15-20-15Z" fill="#211929" stroke="#8a7097" stroke-width="1.4"/><path d="m99 171 22 10-2 25-18 15-2-18Z" fill="#100e18"/><path d="m81 180 18-9 22 10-20 10Z" fill="#483551"/>
+ <path class="dragon-eye" d="M83 189h11v5H83zm23 0h11v5h-11z" fill="#d19aff"/><path d="M88 189h4v5h-4zm20 0h4v5h-4z" fill="#f8ddff"/>
+ <path d="m88 202 12-5 12 5v17l-12 6-12-6Z" fill="#302239" stroke="#70597c" stroke-width="1"/><path d="m100 207 12-5v17l-12 6Z" fill="#16101e"/><path d="M91 207h4v3h-4zm14 0h4v3h-4z" fill="#08060e"/><path d="m88 216 12 5 12-5" stroke="#947a9f"/><path d="m91 218 2 5 2-3m10 0 2 3 2-5" fill="#c9bdce"/>
+ </g></svg>
